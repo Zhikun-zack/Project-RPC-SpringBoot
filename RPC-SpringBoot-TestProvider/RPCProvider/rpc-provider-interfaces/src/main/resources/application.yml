@@ -6,6 +6,7 @@ spring:
     name: rpc-spring-boot-starter-test-provider
 
 rpc:
+  # The host and port of redis
   server:
     host: 127.0.0.1
-    port: 6379
+    port: 6370
